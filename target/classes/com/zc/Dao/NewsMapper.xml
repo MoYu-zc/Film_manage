@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.zc.Dao.NewsMapper">
+   <select id="selectNewById" parameterType="int" resultType="com.zc.pojo.news">
+       select * from film.news where ISDN = #{ISDN}
+   </select>
+
+    <select id="Allnews" resultType="com.zc.pojo.news">
+       select * from film.news
+   </select>
+
+    <insert id="addNew" parameterType="com.zc.pojo.news">
+        insert into film.news (ISDN,title,author,date,description) values (#{ISDN},#{title},#{author},#{date},#{description})
+    </insert>
+
+    <update id="upNew" parameterType="com.zc.pojo.news">
+        update film.news set title=#{title},author=#{author},date=#{date},description=#{description} where ISDN=#{ISDN}
+    </update>
+
+    <delete id="DelnewById" parameterType="int">
+        delete from film.news  where ISDN=#{ISDN}
+    </delete>
+
+
+
+</mapper>

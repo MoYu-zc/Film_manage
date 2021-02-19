@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.zc.Dao.FilmMapper">
+
+    <select id="AllFilm" resultType="com.zc.pojo.film">
+        select * from film.film
+    </select>
+
+    <select id="selectfilmByISDN" parameterType="int" resultType="com.zc.pojo.film">
+          select * from film.film where ISDN = #{ISDN}
+    </select>
+
+    <select id="selectfilmByDir" parameterType="string" resultType="com.zc.pojo.film">
+          select * from film.film where director like #{director}
+    </select>
+
+    <select id="selectfilmBytype" parameterType="string" resultType="com.zc.pojo.film">
+          select * from film.film where type = #{type}
+    </select>
+
+    <insert id="AddFilm" parameterType="com.zc.pojo.film">
+        insert into film.film (ISDN,name,director,actor,type,country,language,score,photo,href,description) values (#{ISDN},#{name},#{director},#{actor},#{type},#{country},#{language},#{score},#{photo},#{href},#{description})
+    </insert>
+
+    <update id="upFilm" parameterType="com.zc.pojo.film">
+        update film.film set name=#{name},director=#{director},actor=#{actor},type=#{type},country=#{country},language=#{language},score=#{score},description=#{description} where ISDN = #{ISDN}
+    </update>
+
+    <delete id="DelFilm" parameterType="int">
+        delete from film.film where  ISDN=#{ISDN}
+    </delete>
+
+</mapper>

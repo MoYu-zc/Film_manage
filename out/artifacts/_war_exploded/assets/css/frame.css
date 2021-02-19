@@ -1,0 +1,84 @@
+
+.wrap-dialog {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    font-size:16px;
+    text-align:center;
+    background-color:rgba(0,0,0,.7);
+    z-index:999;
+}
+.dialog {
+    top:50%;
+    left:50%;
+    position:relative;
+    /*margin:10% auto;
+    */
+    margin-left: -150px;
+    margin-top: -150px;
+    width:300px;
+    background-color:#FFFFFF;
+    border-radius:2px;
+}
+.dialog .dialog-header {
+    height:40px;
+    padding:10px;
+    background-color:#F8F8F8;
+    border-bottom:1px solid #eee;
+    text-align:left;
+}
+.dialog-title {
+    display:inline-block;
+    width:50px;
+    margin-bottom: 50px;
+    margin-left:0;
+}
+.dialog .dialog-body {
+    height:65px;
+    padding:20px;
+}
+.dialog .dialog-footer {
+    padding:8px;
+    background-color:#f5f5f5;
+}
+.dialog-btn {
+    cursor:pointer;
+    background:#ff5622;
+    border:1px solid #ff5622;
+    border-radius:2px;
+    color:#fff;
+    height:28px;
+    line-height:28px;
+    margin:5px 5px 0;
+    padding:0 25px;
+}
+.dialog-hide {
+    display:none;
+}
+.dialog-ml50 {
+    margin-left:50px;
+    background:#fcfbfc;
+    color:#000;
+    border:1px solid #dedede;
+}
+.closeBtn {
+    display:inline-block;
+    width:20px;
+    height:20px;
+    padding:10px;
+    line-height:20px;
+    text-align:center;
+    /*background:red;
+    */
+    margin-right: 10px;
+    color:#333;
+    font-size:12px;
+    float:right;
+    cursor:pointer;
+    font-weight:bolder;
+}
+.closeBtn:hover {
+    color:#A0A8B4;
+}

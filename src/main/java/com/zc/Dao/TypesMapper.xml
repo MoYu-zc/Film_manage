@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.zc.Dao.TypesMapper">
+
+    <select id="selectTypeByID" parameterType="int" resultType="com.zc.pojo.types">
+        select * from film.types where id = #{id}
+    </select>
+
+    <select id="Alltypes"  resultType="com.zc.pojo.types">
+        select * from film.types
+    </select>
+
+    <delete id="DeletetypeById" parameterType="int" >
+        delete from film.types where id = #{id}
+    </delete>
+
+    <update id="Updatetype" parameterType="com.zc.pojo.types">
+        update film.types set type=#{type} where id = #{id}
+    </update>
+
+    <insert id="addtype" parameterType="com.zc.pojo.types">
+        insert into film.types (id,type) values (#{id},#{type})
+    </insert>
+
+</mapper>

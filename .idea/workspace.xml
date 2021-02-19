@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="电影后台管理:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9b1135b-0e74-4017-b425-97d09c43f9ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="film: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="film: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="film: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="film: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="types: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="film: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lbmrfMKTgYyHA9ee7XJNB4d5Ck" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springmvc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19536904" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ij\maven\电影后台管理\web\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ij\maven\电影后台管理\web" />
+      <recent name="D:\ij\maven\电影后台管理\web\css" />
+      <recent name="D:\ij\maven\电影后台管理\web\assets" />
+      <recent name="D:\ij\maven\电影后台管理\web\assets\css" />
+      <recent name="D:\ij\maven\电影后台管理\web\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.41">
+    <configuration name="jdbc.updateuser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="电影后台管理" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="jdbc" />
+      <option name="METHOD_NAME" value="updateuser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="电影后台管理:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_电影后台管理_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53691" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="电影后台管理:war exploded" />
+          <artifact name="电影后台管理:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.jdbc.updateuser" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.41" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.jdbc.updateuser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.09562842" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b1135b-0e74-4017-b425-97d09c43f9ee" name="Default Changelist" comment="" />
+      <created>1607874364756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607874364756</updated>
+      <workItem from="1607874370212" duration="190000" />
+      <workItem from="1607906054038" duration="41000" />
+      <workItem from="1607906325237" duration="50182000" />
+      <workItem from="1608111289360" duration="48033000" />
+      <workItem from="1608254054191" duration="33476000" />
+      <workItem from="1608305164977" duration="292000" />
+      <workItem from="1608353453295" duration="76000" />
+      <workItem from="1608355288611" duration="28000" />
+      <workItem from="1608477822263" duration="15363000" />
+      <workItem from="1608529890528" duration="693000" />
+      <workItem from="1608711929719" duration="16814000" />
+      <workItem from="1608790896941" duration="5081000" />
+      <workItem from="1608816081550" duration="2000" />
+      <workItem from="1608816092074" duration="1297000" />
+      <workItem from="1608856748607" duration="2492000" />
+      <workItem from="1609002314289" duration="6482000" />
+      <workItem from="1609064011036" duration="1951000" />
+      <workItem from="1609067023360" duration="2424000" />
+      <workItem from="1610610767821" duration="266000" />
+      <workItem from="1611734829882" duration="713000" />
+      <workItem from="1611736300853" duration="1132000" />
+      <workItem from="1611823688668" duration="612000" />
+      <workItem from="1611828796738" duration="170000" />
+      <workItem from="1611829002473" duration="598000" />
+      <workItem from="1612255973012" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="94" key="#SQL_Dialects" timestamp="1608165274807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="94" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1608165274807" />
+    <state x="452" y="94" key="#Template_Data_Languages" timestamp="1608131979839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="94" key="#Template_Data_Languages/0.0.1920.1040@0.0.1920.1040" timestamp="1608131979839" />
+    <state x="414" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609068439996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609068439996" />
+    <state x="640" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608112869184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608112869184" />
+    <state x="910" y="9" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1607916062567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="910" y="9" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607916062567" />
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1608773053589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608773053589" />
+    <state x="502" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1607874413870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607874413870" />
+    <state x="452" y="94" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1609067372117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="94" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1609067372117" />
+    <state x="359" y="224" key="FileChooserDialogImpl" timestamp="1612255989143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="224" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612255989143" />
+    <state width="1654" height="70" key="GridCell.Tab.0.bottom" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.0.center" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.0.left" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.0.right" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.1.bottom" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.1.center" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.1.left" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.1.right" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.2.bottom" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.2.center" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.2.left" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state width="1654" height="70" key="GridCell.Tab.2.right" timestamp="1609074912888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1654" height="70" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609074912888" />
+    <state x="377" y="92" key="Maven.ArtifactSearchDialog" timestamp="1608256331258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="92" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608256331258" />
+    <state x="345" y="0" key="SettingsEditor" timestamp="1611828970200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611828970200" />
+    <state x="0" y="0" width="1630" height="789" key="dock-window-1" timestamp="1608278050650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1630" height="789" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1608278050650" />
+    <state x="-26" y="46" width="1143" height="966" key="new project wizard" timestamp="1610611015856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-26" y="46" width="1143" height="966" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610611015856" />
+    <state x="279" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1608290509210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="78" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608290509210" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1608132731084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608132731084" />
+    <state x="640" y="21" key="spring file set editor" timestamp="1608044700604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="21" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1608044700604" />
+  </component>
+</project>
